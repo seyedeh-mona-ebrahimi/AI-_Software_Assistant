@@ -58,7 +58,8 @@ pip install pyaudio
 
 ## Step 4: Running the Application
 Once all dependencies are installed, run the Streamlit UI using:
-streamlit run app.py
+
+1. streamlit run app.py
 
 This will launch the AI-powered assistant in your browser, allowing you to input queries and receive real-time, up-to-date responses.
 
