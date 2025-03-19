@@ -1,9 +1,9 @@
              
-### AI-Powered Software Engineering Meeting Assistant 
+# AI-Powered Software Engineering Meeting Assistant 
 How Can AI Stay Up to Date Without Constant Retraining
 
 
-## Overview
+# Overview
 AI-powered Software Engineering Meeting Assistant is designed to keep developers, architects, and DevOps teams informed about the latest programming languages, software architectures, and DevOps practices. Instead of requiring constant retraining, it retrieves real-time updates from trusted sources like ArXiv, GitHub, Stack Overflow, and RFCs, dynamically modifies responses based on new releases, and ensures consistency in recommendations. This project focuses on implementing a retrieval-augmented generation (RAG) approach, trust-based ranking, and consistency checking to ensure AI-generated responses remain relevant and aligned with industry best practices.
 
 
@@ -15,7 +15,7 @@ AI-powered Software Engineering Meeting Assistant is designed to keep developers
 3. retrieval.py → Stores the fetched knowledge in the database for later use.
 4. ranking.py → Ranks the retrieved documents based on trustworthiness and relevance.
 5. consistency.py → Ensures the AI responses remain consistent with previously generated answers.
-6. app.py → TThe Streamlit UI, allowing users to interact with the assistant.
+6. app.py → The Streamlit UI, allows users to interact with the assistant.
 
 
 ## Installation Instructions
