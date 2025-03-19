@@ -8,7 +8,7 @@ AI-powered Software Engineering Meeting Assistant is designed to keep developers
 
 
 # Project Structure & Workflow
-# Flow of Python Files
+## Flow of Python Files
 
 1. AImodel.py → Initializes and loads the model.
 2. arxiv_fetcher.py → Fetches the latest knowledge.
@@ -20,7 +20,7 @@ AI-powered Software Engineering Meeting Assistant is designed to keep developers
 
 ## Installation Instructions
 
-# Step 1: Set Up a Virtual Environment
+## Step 1: Set Up a Virtual Environment
 To avoid dependency conflicts, create and activate a Conda environment:
 1. conda create -n capstone_env python=3.10
 2. conda activate capstone_env
@@ -28,7 +28,7 @@ To avoid dependency conflicts, create and activate a Conda environment:
 Install PyTorch and related dependencies: 
 1. conda install pytorch torchvision torchaudio
 
-# Step 2: Install Required Python Libraries
+## Step 2: Install Required Python Libraries
 Once inside the virtual environment, install the required dependencies:
 
 1. pip install streamlit
@@ -39,24 +39,24 @@ Once inside the virtual environment, install the required dependencies:
 6. pip install speechrecognition pydub pillow pytesseract pyaudio
 7. pip install beautifulsoup4
 
-# Step 3: Special Installation for macOS Users (PyAudio)
+## Step 3: Special Installation for macOS Users (PyAudio)
 If you are using macOS, you may need to install pyaudio using Homebrew:
 
-# 1. Install Homebrew (if not installed)
+### 1. Install Homebrew (if not installed)
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# 2. Add Homebrew to your PATH
+### 2. Add Homebrew to your PATH
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/xbtash/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
-# 3. Install PortAudio (required for PyAudio)
+### 3. Install PortAudio (required for PyAudio)
 brew install portaudio
 
-# 4. Install PyAudio
+### 4. Install PyAudio
 pip install pyaudio
 
 
-# Step 4: Running the Application
+## Step 4: Running the Application
 Once all dependencies are installed, run the Streamlit UI using, this will launch the AI-powered assistant in your browser, allowing you to input queries and receive real-time, up-to-date responses:
 streamlit run app.py
 
