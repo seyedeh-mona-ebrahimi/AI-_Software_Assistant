@@ -1,6 +1,6 @@
              
 # AI-Powered Software Engineering Meeting Assistant 
-How Can AI Stay Up to Date Without Constant Retraining
+### How Can AI Stay Up to Date Without Constant Retraining
 
 
 # Overview
@@ -57,8 +57,11 @@ pip install pyaudio
 
 
 ## Step 4: Running the Application
-Once all dependencies are installed, run the Streamlit UI using, this will launch the AI-powered assistant in your browser, allowing you to input queries and receive real-time, up-to-date responses:
+Once all dependencies are installed, run the Streamlit UI using:
 streamlit run app.py
+
+This will launch the AI-powered assistant in your browser, allowing you to input queries and receive real-time, up-to-date responses.
+
 
 
 
