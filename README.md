@@ -1,8 +1,6 @@
 #### GROUP 4: AIMonvi
-
-### Team members:    Seyedeh (Mona) Ebrahimi, Tanvi Sharma
-### Project's Mentor: Ayman                      
-### PROJECT 4: How Can AI Stay Up to Date Without Constant Retraining
+### Team members:    Seyedeh (Mona) Ebrahimi, Tanvi Sharma               
+### How Can AI Stay Up to Date Without Constant Retraining
 
 
 #### For the app.py to run, please install the below dependencies
