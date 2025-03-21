@@ -4,7 +4,7 @@
 
 
 # Overview
-AI-powered Software Engineering Meeting Assistant is designed to keep developers, architects, and DevOps teams informed about the latest programming languages, software architectures, and DevOps practices. Instead of requiring constant retraining, it retrieves real-time updates from trusted sources like ArXiv, GitHub, Stack Overflow, and RFCs, dynamically modifies responses based on new releases, and ensures consistency in recommendations. This project focuses on implementing a retrieval-augmented generation (RAG) approach, trust-based ranking, and consistency checking to ensure AI-generated responses remain relevant and aligned with industry best practices.
+AI Software Engineering Assistant is designed to keep developers, architects, and DevOps teams informed about the latest programming languages, software architectures, and DevOps practices. Instead of requiring constant retraining, the assistant retrieves real-time updates from trusted sources like ArXiv, GitHub, Stack Overflow, and RFCs, dynamically modify responses based on new releases, and ensures consistency in recommendations. This project focuses on implementing a retrieval-augmented generation (RAG) approach, trust-based ranking, and consistency checking to ensure AI-generated responses remain relevant and aligned with industry best practices.
 
 
 # Project Structure & Workflow
