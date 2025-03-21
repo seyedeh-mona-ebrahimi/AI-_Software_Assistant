@@ -1,5 +1,5 @@
              
-# AI-Powered Software Engineering Meeting Assistant 
+# AI Software Engineering Assistant 
 ### How Can AI Stay Up to Date Without Constant Retraining
 
 
